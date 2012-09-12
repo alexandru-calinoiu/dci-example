@@ -1,0 +1,335 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "lib/transfer_money.rb",
+			"settings":
+			{
+				"buffer_size": 313,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/account.rb",
+			"settings":
+			{
+				"buffer_size": 168,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "spec/spec_helper.rb",
+			"settings":
+			{
+				"buffer_size": 328,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Ruby/Ruby.sublime-build",
+	"command_palette":
+	{
+		"height": 138.0,
+		"selected_items":
+		[
+			[
+				"ss",
+				"Set Syntax: Ruby"
+			],
+			[
+				"ssc#",
+				"Set Syntax: C#"
+			],
+			[
+				"ssru",
+				"Set Syntax: Ruby"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/calin/Projects/dci/lib/ account.rb",
+		"/home/calin/Projects/dci/lib/transfer_money.rb",
+		"/home/calin/Projects/dci/lib/context.rb",
+		"/home/calin/Projects/dci/lib/module Context",
+		"/home/calin/Projects/Alg/spec/heap/heap_helper_spec.rb",
+		"/home/calin/Projects/dci/README.md",
+		"/home/calin/Projects/dci/.gitignore",
+		"/home/calin/Projects/dci/.rvmrc",
+		"/home/calin/Documents/Share/Interviu1 (Daniel Baltat)",
+		"/home/calin/Documents/Share/Sharetribe",
+		"/home/calin/Documents/Share/Why is sharing cool?",
+		"/home/calin/Projects/sharetribe/Gemfile",
+		"/home/calin/Projects/trucking_office/app/controllers/application_controller.rb",
+		"/home/calin/Projects/scumpara/config/deploy.rb",
+		"/home/calin/Projects/trucking_office/db/migrate/20120821134226_devise_create_admin_users.rb",
+		"/home/calin/Projects/sharetribe/.rvmrc",
+		"/home/calin/Projects/scumpara/config/deploy/production.rb",
+		"/home/calin/Projects/scumpara/config/deploy/staging.rb",
+		"/media/3A96A78E96A74969/Documents and Settings/calin/Documents/OneNote Notebooks/Work Notebook/scumpara.one",
+		"/home/calin/Projects/scumpara/Gemfile",
+		"/home/calin/Projects/dailygourmet/config/routes.rb",
+		"/home/calin/Downloads/coupons (10).csv",
+		"/home/calin/Projects/dailygourmet/config/database.yml",
+		"/home/calin/Projects/trucking_office/Gemfile",
+		"/home/calin/Projects/oauth_provider/.gitignore",
+		"/home/calin/Projects/oauth_provider/db/seeds.rb",
+		"/home/calin/Projects/dailygourmet/.gitignore",
+		"/home/calin/Projects/dailygourmet/Gemfile",
+		"/home/calin/Projects/oauth_provider/.rvmrc",
+		"/home/calin/Projects/getloaded/.gitignore",
+		"/home/calin/Projects/trucking_office/Rakefile",
+		"/home/calin/Projects/dailygourmet/.rvmrc",
+		"/home/calin/Documents/de_testat.txt",
+		"/home/calin/Projects/saas_class/some_sum.rb",
+		"/home/calin/Projects/getloaded/.rvmrc",
+		"/home/calin/Projects/getloaded/Gemfile",
+		"/home/calin/.config/sublime-text-2/Packages/Ruby/Ruby.sublime-build",
+		"/home/calin/Projects/saas_class/[dir",
+		"/home/calin/Projects/saas_class/[path",
+		"/home/calin/Projects/saas_class/[cmd",
+		"/home/calin/Projects/karmacrm3_app/app/support/decorators/resource.rb",
+		"/home/calin/Projects/karmacrm3_app/app/support/decorators/company.rb",
+		"/home/calin/Projects/karmacrm3_app/app/support/workers/synchronizations/google_contacts.rb",
+		"/home/calin/Projects/saas_class/hello.rb",
+		"/home/calin/Projects/saas_class/hi.rb",
+		"/home/calin/Projects/saas_class/.rvmrc",
+		"/home/calin/Projects/dailygourmet/app/assets/javascripts/admin/deals.js.coffee",
+		"/home/calin/Projects/dailygourmet/app/admin/deals.rb",
+		"/home/calin/Projects/dailygourmet/config/environments/test.rb",
+		"/home/calin/Projects/dailygourmet/config/environments/development.rb",
+		"/home/calin/Projects/dailygourmet/config/environments/production.rb",
+		"/home/calin/Projects/dailygourmet/config/environment.rb",
+		"/home/calin/Projects/dailygourmet/config/initializers/secret_token.rb",
+		"/home/calin/Projects/dailygourmet/config/application.rb",
+		"/etc/hosts",
+		"/home/calin/Projects/trucking_office/features/support/env.rb",
+		"/home/calin/Projects/trucking_office/features/support/hooks.rb",
+		"/home/calin/chromedriver.log",
+		"/home/calin/Projects/dailygourmet/spec/admin/link_ad_spec.rb",
+		"/home/calin/Projects/dailygourmet/spec/admin/deals_spec.rb",
+		"/home/calin/Projects/dailygourmet/app/admin/vendors.rb",
+		"/home/calin/Projects/dailygourmet/app/admin/users.rb",
+		"/home/calin/Projects/dailygourmet/app/admin/categories.rb",
+		"/home/calin/Projects/dailygourmet/app/admin/chefs.rb",
+		"/home/calin/Projects/dailygourmet/app/admin/dashboards.rb",
+		"/home/calin/Projects/trucking_office/Guardfile",
+		"/home/calin/Projects/dailygourmet/app/views/admin/vendors/_form.html.haml",
+		"/home/calin/Projects/dailygourmet/app/views/admin/deals/_form.html.haml",
+		"/home/calin/Documents/comparation.txt",
+		"/home/calin/.cache/.fr-GKqc2O/ubuntu-wallpapers-0.31.5/INSTALL",
+		"/home/calin/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/calin/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"form",
+			"tab_",
+			"- it's developed by a romanian :)\n",
+			"\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "lib/transfer_money.rb",
+					"settings":
+					{
+						"buffer_size": 313,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								97,
+								97
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "lib/account.rb",
+					"settings":
+					{
+						"buffer_size": 168,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "spec/spec_helper.rb",
+					"settings":
+					{
+						"buffer_size": 328,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								69,
+								69
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"so",
+				"Some other tba"
+			],
+			[
+				"t",
+				"what is this"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
